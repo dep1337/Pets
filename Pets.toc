@@ -1,0 +1,6 @@
+## Interface: 100007
+## Title: Pets
+## SavedVariables: pets
+## Notes: Generic addon frame
+## Version: 0.1
+Pets.lua
